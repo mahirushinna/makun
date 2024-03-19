@@ -11402,7 +11402,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "tên cần đổi",
+    Name = "mahiru waifu on top",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://8192162908",
     Time = 5
